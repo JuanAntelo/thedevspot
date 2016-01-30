@@ -1,0 +1,10 @@
+// base.scss
+
+@import 'partials/componentB.scss';
+@import 'partials/componentA.scss';
+@import 'partials/reset.scss';
+
+body {
+	font : 100% Helvetica, sans-serif;
+	background-color : #eee;
+}
